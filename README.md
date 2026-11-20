@@ -8,20 +8,6 @@
 
 ---
 
-## How this submission is organised
-
-The project is submitted in **three parts**:
-
-- **Part 1 — Report & reflective essay** *(submitted separately)*: the dissertation paper
-  (`RajSuwalka_PG_Project_Dissertation.pdf`) and the reflective essay (`RajSuwalka_PG_Project_ReflectiveEssay.pdf`).
-- **Part 2 — this supplementary-material folder**: the code, data, and machine-checked proofs.
-- **Part 3 — the presentation video** *(submitted separately)* (`RajSuwalka_PG_Project_VideoPresentation`).
-
-**This README guides you through Part 2.** Where the report and video are referred to below, they
-are found in Parts 1 and 3.
-
----
-
 ## 1. What this project is
 
 A two-stage pipeline for assessing cryptographic protocols:
@@ -50,17 +36,12 @@ formalised in Lean.
 | `risk_analysis_consolidated.ipynb` | The empirical pipeline (Jupyter notebook) |
 | `final_dv1.csv` | The curated 100-protocol dataset the notebook reads |
 | `protocol_ranking.csv` | The ML→Lean handover — all 100 protocols ranked by composite vulnerability score, with a `lean_status` column (a pre-generated copy of the notebook's output) |
-| `presentation_slides.pdf` | The slide deck from the presentation video (Part 3), included here for convenient reference |
-
-The **report** and **reflective essay** (Part 1) and the **presentation video** (Part 3) are
-submitted separately, not in this folder.
 
 ---
 
 ## 3. Suggested order for the reader
 
-The **report** (Part 1) is the full account and the best starting point; the **video** (Part 3) is a
-10-minute overview. Within *this folder*:
+The **report** is the full account and the best starting point. Within *this folder*:
 
 1. **`protocol_ranking.csv`** — the headline result at a glance: the top 13 rows are exactly the 13
    High-severity protocols.
