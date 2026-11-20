@@ -36,6 +36,8 @@ formalised in Lean.
 | `risk_analysis_consolidated.ipynb` | The empirical pipeline (Jupyter notebook) |
 | `final_dv1.csv` | The curated 100-protocol dataset the notebook reads |
 | `protocol_ranking.csv` | The ML→Lean handover — all 100 protocols ranked by composite vulnerability score, with a `lean_status` column (a pre-generated copy of the notebook's output) |
+| `RajSuwalka_PG_Project_Dissertation.pdf` | Project summary report |
+| `RajSuwalka_PG_Project_ReflectiveEssay.pdf` | Project reflective essay | 
 
 ---
 
