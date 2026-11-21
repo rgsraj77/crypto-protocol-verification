@@ -97,3 +97,6 @@ machine-checked.
 - **The end-to-end WEP worked example** (§VI) — `WEPDemo.lean`, and Part VIII of
   `ProtocolsDolevYao.lean`.
 - **The formal-verification coverage** (Appendix A) — the five Lean files listed above.
+
+## Interactive Web Tool
+     - **Live App:** https://cryptoshield-web-tool.streamlit.app/
