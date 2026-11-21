@@ -99,4 +99,4 @@ machine-checked.
 - **The formal-verification coverage** (Appendix A) — the five Lean files listed above.
 
 ## Interactive Web Tool
-     - **Live App:** `https://cryptoshield-web-tool.streamlit.app/`
+**Live App:** `https://cryptoshield-web-tool.streamlit.app/`
